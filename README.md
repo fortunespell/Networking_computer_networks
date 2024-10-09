@@ -114,7 +114,7 @@ To simulate and experiment with these network topologies:
 1. **Install Cisco Packet Tracer**: [Download Packet Tracer](https://www.netacad.com/courses/packet-tracer) and follow the installation guide for your operating system.
 2. **Clone this Repository**: Clone or download this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/network-topology-configurations.git
+   git clone https://github.com/fortunespell/Networking_computer_networks.git
 
    
 ---
