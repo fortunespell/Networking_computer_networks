@@ -50,7 +50,7 @@ This topology is ideal for learning basic routing principles, demonstrating how 
 
 ---
 
-### 2. Simple Router-Switch-PC Network
+### 2. Simple Router-Switch-PC Network (VLAN)
 
 #### **Overview:**
 This topology involves a local network where:
