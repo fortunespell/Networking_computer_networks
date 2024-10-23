@@ -70,6 +70,7 @@ This topology involves a local network where:
 This topology represents a typical small-scale local area network (LAN) where multiple devices (PC2 and PC3) need to communicate with each other internally, while **Router2** provides connectivity to the outside world. This setup is widely used in homes and small businesses where basic networking infrastructure (router and switch) is sufficient for daily communication and internet access.
 
 ![image](https://github.com/user-attachments/assets/e12c843f-f4bc-451d-8369-a7e156dc451c)
+![multi_vlan](https://github.com/user-attachments/assets/e0374c12-8581-493f-a0fa-861ec6dc79ed)
 
 ---
 
@@ -95,6 +96,7 @@ A more complex network topology involving:
 This topology is suitable for large organizations or enterprises where multiple departments or offices are connected. Each router manages specific subnets, and the network configuration ensures redundancy and fault tolerance, enabling smooth internal and external communication. This network can handle larger data flows and different VLANs for each department.
 
 ![image](https://github.com/user-attachments/assets/e654dff8-e3d5-4f0f-b64c-2b73b5eb7fbd)
+![multi_router](https://github.com/user-attachments/assets/dbe1b4ee-95c2-49aa-ba79-c55161af6d8e)
 
 ---
 
